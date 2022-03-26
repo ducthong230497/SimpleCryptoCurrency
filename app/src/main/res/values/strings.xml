@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple Crypto Currency</string>
+    <string name="item_click">Item %s Clicked</string>
+    <string name="show_data">Show data</string>
+    <string name="reverse_list">Reverse list</string>
+</resources>
