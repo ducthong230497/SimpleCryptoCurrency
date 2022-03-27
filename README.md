@@ -14,6 +14,4 @@
 - Create main screen with show data button and sort button.
 - Handle reverse currency list when user click on sort button.
 - Apply clean architecture (Presenter, Domain, Data).
-![image description](https://github.com/ducthong230497/SimpleCryptoCurrency/tree/main/app/src/main/res/drawable/app_flow.png)
-
- 
+![image description](https://github.com/ducthong230497/SimpleCryptoCurrency/blob/main/app/src/main/res/drawable/app_flow.png)
